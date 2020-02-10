@@ -27,6 +27,7 @@
   left:340px;
 }
 #l1{
+  background-color:aqua;
   color: red;
   border-radius: 5px;
   }
@@ -47,9 +48,6 @@ h1{
 }
 p{
   padding-left:40px;
-}
-body{
-  background-color: antiquewhite;
 }
 .td2{
   padding-right:250px;
